@@ -1,7 +1,9 @@
 # players
-jogo hipotético muito semelhante a Banco Imobiliário
 
 ANÁLISE LÓGICA, RACIONAL DO DESAFIO: "jogo hipotético muito semelhante a Banco Imobiliário"
+
+O descritivo do desafio possui duas falhas maiores, ou seja, a) não informar claramente qual o valor do aluguel da proprieda e b) não informar claramente o preço da propriedade no momento da compra, deixando apenas uma informação subentendida e não claramente informada.
+
 
 Ítem 1:
 Qual o preço da propriedade para compra?
@@ -13,6 +15,7 @@ Veja que aqui estou fazendo uma suposição e nas empresas não devemos fazer su
 Ítem 2:
 Qual o preço do aluguel da propriedade? Ou ainda melhor, Como é definido o preço do aluguel da propriedade?
 Falta informação que dentro da lógica do jogo faz grande diferença, ou seja, toda informação deve ser devidamente esclarecida.
+
 
 Análise lógica dos tipos de jogadores segundo os seus comportamentos e questionamentos acima feitos:
 
@@ -28,5 +31,20 @@ no ítem 1 acima.
 -->O jogador aleatório precisa jogar uma moeda e cair a opção que ele escolheu(probabilidade de 50%) para comprar a propriedade desde que esteja sem dono. Então o jogador aleatório
 tem contra ele muitas variáveis contra a compra.
 
+
 Portanto,
-o comportamento que mais vence, segundo a lógica com falta de informações acima exposto, é o jogador IMPULSIVO.
+segundo a lógica com falta de informações conforme acima exposto, o comportamento que mais vence é o jogador IMPULSIVO.
+
+Eu entendo que um profissional Analista, Desenvolvedor deve trabalhar com informação segura, evitar teorização fundamentada no subjetivismo do 'eu acho que', e sempre esclarecer qualquer dúvida que possa ter, se ele dessa forma atuar estará:
+a) gastando tempo, 
+b) recursos financeiros, 
+c) perdendo a oportunidades de entregar ao mercado uma solução de software inovadora,
+d) gerando retralho,
+e) mal clima organizacional.
+
+Eu poderia facilmente desenvolver um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento onde as regras do jogo/negócio estaria nos laços, if, else.
+
+
+O senhor deseja avaliar os meus códigos escritos em Python? Convido a analisar os repositórios do github valoreio onde os programas foram 100% feitos por mim. Aproveito também para convidar a analisar os portfólios www.valore.io e adm4orgpar.heroku.com o qual também foram 100% feitos por mim.
+
+Atenciosamente,
