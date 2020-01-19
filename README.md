@@ -6,8 +6,7 @@ O descritivo do desafio possui duas falhas maiores, ou seja,
 * a) não informar claramente qual o valor do aluguel da propriedade e 
 * b) não informar claramente o preço da propriedade no momento da compra, deixando apenas uma informação subentendida e não claramente informada. 
 
-Nos ítens 1 e 2 abaixo eu esclareço um pouco mais essas questões.
-
+**Nos ítens 1 e 2 abaixo eu esclareço um pouco mais essas questões.**
 
 **Ítem 1:**
 Qual o preço da propriedade para compra?
@@ -18,7 +17,6 @@ Veja que aqui estou fazendo uma suposição e nas empresas não devemos fazer su
 **Ítem 2:**
 Qual o preço do aluguel da propriedade? Ou ainda melhor, Como é definido o preço do aluguel da propriedade?
 Falta informação que dentro da lógica do jogo faz grande diferença, ou seja, toda informação deve ser devidamente esclarecida.
-
 
 **Faço aqui uma análise lógica dos tipos de jogadores segundo os seus comportamentos com os questionamentos acima feitos:**
 
@@ -43,8 +41,7 @@ Eu entendo que um profissional Analista, Desenvolvedor deve trabalhar com inform
 
 Eu poderia facilmente desenvolver um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento onde as regras do jogo/negócio estaria nos laços, if, else.
 
-
-O senhor deseja avaliar os meus códigos escritos em Python? Convido a **analisar os repositórios** do github valoreio onde os programas foram 100% feitos por mim. Aproveito também para convidar a **analisar os portfólios** www.valore.io e adm4orgpar.heroku.com o qual também foram 100% feitos por mim.
+O senhor deseja avaliar os meus códigos escritos em Python? Convido a **analisar os repositórios** do github valoreio onde os programas foram 100% feitos por mim. Aproveito também para convidar a **analisar os portfólios** www.valore.io e adm4orgpar.heroku.com que, de igual maneira, feitos por mim em sua totalidade.
 
 Atenciosamente,
 Marcos
