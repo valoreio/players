@@ -43,7 +43,7 @@ Eu entendo que um profissional Analista, Desenvolvedor deve trabalhar com inform
 
 Eu poderia facilmente desenvolver um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento onde as regras do jogo/negócio estaria nos laços, if, else.
 
-O senhor deseja avaliar os meus códigos escritos em Python? Convido a analisar os repositórios do **github valoreio** onde os programas foram 100% feitos por mim. Aproveito também para convidar a analisar os portfólios **www.valore.io** e **adm4orgpar.heroku.com** que, de igual maneira, feitos por mim em sua totalidade.
+O senhor deseja avaliar os meus códigos escritos em Python? Convido a analisar os repositórios do **github valoreio** onde os programas foram 100% feitos por mim. Aproveito também para convidar a analisar os portfólios **http://www.valore.io** e **https://adm4orgpar.herokuapp.com** que, de igual maneira, feitos por mim em sua totalidade.
 
 Atenciosamente,
 Marcos
