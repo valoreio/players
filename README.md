@@ -2,6 +2,8 @@
 
 **ANÁLISE LÓGICA, RACIONAL DO DESAFIO: "jogo hipotético muito semelhante a Banco Imobiliário"**
 
+Diante de um grande dilema entre desenvolver um programa Python imperfeito e escrever um longo e trabalhado texto, escolhi o segundo:
+
 O descritivo do desafio possui duas falhas maiores, ou seja, 
 * a) não informar claramente qual o valor do aluguel da propriedade e 
 * b) não informar claramente o preço da propriedade no momento da compra, deixando apenas uma informação subentendida e não claramente informada. 
@@ -33,15 +35,15 @@ Falta informação que dentro da lógica do jogo faz grande diferença, ou seja,
 segundo a lógica com falta de informações conforme acima exposto, o comportamento que reune mais chances de vencer é o jogador: IMPULSIVO.
 
 Eu entendo que um profissional Analista, Desenvolvedor deve trabalhar com informação segura, evitar teorização fundamentada no subjetivismo do 'eu acho que', e sempre esclarecer qualquer dúvida que possa ter, se ele atuar na forma de achismos estará:
-* a) gastando tempo e incorrendo em retrabalho, 
-* b) recursos financeiros, 
+* a) gastando tempo, 
+* b) desperdício de recursos financeiros, 
 * c) a empresa perdendo a oportunidades de entregar ao mercado uma solução de software inovadora,
 * d) gerando retralho,
 * e) mal clima organizacional.
 
 Eu poderia facilmente desenvolver um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento onde as regras do jogo/negócio estaria nos laços, if, else.
 
-O senhor deseja avaliar os meus códigos escritos em Python? Convido a **analisar os repositórios** do github valoreio onde os programas foram 100% feitos por mim. Aproveito também para convidar a **analisar os portfólios** www.valore.io e adm4orgpar.heroku.com que, de igual maneira, feitos por mim em sua totalidade.
+O senhor deseja avaliar os meus códigos escritos em Python? Convido a analisar os repositórios do **github valoreio** onde os programas foram 100% feitos por mim. Aproveito também para convidar a analisar os portfólios **www.valore.io** e **adm4orgpar.heroku.com** que, de igual maneira, feitos por mim em sua totalidade.
 
 Atenciosamente,
 Marcos
