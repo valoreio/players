@@ -24,9 +24,9 @@ Falta informação que dentro da lógica do jogo faz grande diferença, ou seja,
 
 **-->** O jogador impulsivo tem a OPÇÃO de compra de qualquer propriedade sobre a qual ele parar, mas só é possível comprar, segundo a regra do jogo, quando a propriedade está sem proprietário.
 
-**-->** O jogador exigente nunca irá comprar uma propriedade porque ele só compra quando o aluguel for maior do que 50, porém, só é possível comprar, segundo a regra do jogo, quando a propriedade está sem proprietário e ainda, não está claro no texto, qual o valor do aluguel da propriedade.
+**-->** O jogador exigente nunca irá comprar uma propriedade porque ele só compra a propriedade quando o aluguel for maior do que 50, porém, só é possível comprar, segundo a regra do jogo, quando a propriedade está sem proprietário e ainda, não está claro no texto, qual a forma de calculo do valor do aluguel da propriedade.
 
-**-->** O jogador cauteloso nunca irá comprar porque para calcular e o comprar permanecer com uma reserva de 80 saldo, segundo regra do jogo, é preciso saber o valor da propriedade e essa informação não foi informada com clareza, eu fiz uma suposição no item 1 acima.
+**-->** O jogador cauteloso nunca irá comprar porque para calcular e o comprar permanecer com uma reserva com saldo de 80 unidades, segundo regra do jogo, é preciso saber o valor da propriedade e essa informação não foi informada com clareza, eu fiz uma suposição no item 1 acima.
 
 **-->** O jogador aleatório precisa jogar uma moeda e cair a opção que ele escolheu(probabilidade de 50%) para comprar a propriedade desde que esteja sem dono. Então o jogador aleatório tem contra ele muitas variáveis contra a compra.
 
@@ -41,4 +41,4 @@ Devemos entender que um profissional Analista de sistemas, Desenvolvedor de soft
 * d) gerando retrabalho,
 * e) mal clima organizacional.
 
-Desenvolva um um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento com as regras do jogo/negócio nos loop, while, if, then, saldo += valor, else - apenas - quando todos os requisitos funcionais organizacionais estão claramente esclarecidos.
+Desenvolva um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento com as regras do negócio nos loops, whiles, ifs, then, calculos (saldo += valor), elses - APENAS - quando todos os requisitos funcionais organizacionais estão claramente esclarecidos.
