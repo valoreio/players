@@ -30,7 +30,6 @@ Falta informação que dentro da lógica do jogo faz grande diferença, ou seja,
 
 **-->** O jogador aleatório precisa jogar uma moeda e cair a opção que ele escolheu(probabilidade de 50%) para comprar a propriedade desde que esteja sem dono. Então o jogador aleatório tem contra ele muitas variáveis contra a compra.
 
-
 **Portanto**,
 segundo a lógica com falta de informações conforme acima exposto, o comportamento que reúne mais chances de vencer é o jogador: IMPULSIVO.
 
@@ -42,3 +41,12 @@ Devemos entender que um profissional Analista de sistemas, Desenvolvedor de soft
 * e) mal clima organizacional.
 
 Desenvolva um modelo de entidades (jogo, partida, jogadores, saldo, tabuleiro, propriedades) versus relacionamento com as regras do negócio nos loops, whiles, ifs, then, calculos (saldo += valor), elses - APENAS - quando todos os requisitos funcionais organizacionais estão claramente esclarecidos.
+
+
+
+
+**Os desafios técnicos propostos pelos CTOs**
+
+Os CTOs sem terem o que fazer, colocam desafios técnicos aos desenvolvedores de software como uma das etapas no processo de contratação. São desafios que incluem uma camada extra de complicação na vida das selecionadoras de RH e para as empresas que elas representam.
+
+Alguns desses desafios são falhos no descritivo dos requisitos técnicos, uma vez que esses CTOs são altamente técnicos e carentes no domínio da língua portuguesa. Outros desafios são tão tolos que o desenvolvedor de software tem que correr contra o relógio para a conclusão da atividade. Finalmente, o pior de todos os desafios; O desafio que exige mais de 40 horas de trabalho duro e obstinado, como se o desenvolvedor fosse um instalador de ar-condicionado do tipo split (todo o nosso respeito ao instalador de ar-condicionado split que enfeiam as nossas cidades quando feitos da pior maneira) Ar-condicionado instalado? Sim, então; continua o processo de seleção, que, muitas vezes, dá em nada, o nobre desenvolvedor oferece insights magníficos e o serviço feito não é remunerado.
